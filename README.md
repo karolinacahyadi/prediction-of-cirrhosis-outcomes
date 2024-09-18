@@ -59,7 +59,7 @@ n_estimators: 200
 subsample: 0.8
 Best Cross-Validation Score: 82.75%
 
-2.Randomized Search:
+2. Randomized Search:
 Best Parameters:
 subsample: 0.8
 n_estimators: 300
