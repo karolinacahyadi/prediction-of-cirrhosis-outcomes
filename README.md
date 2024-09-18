@@ -19,7 +19,7 @@ Accuracy: 81.59%
 Log Loss: 0.50
 Similar issues as Logistic Regression.
 
-4.AdaBoost:
+4. AdaBoost:
 Accuracy: 81.15%
 Log Loss: 1.05
 Struggles with class 1 detection.
@@ -29,18 +29,18 @@ Struggles with class 1 detection.
 Accuracy: 84.31%
 Log Loss: 0.51
 Best overall performance.
-Gradient Boosting:
 
+6. Gradient Boosting:
 Accuracy: 82.92%
 Log Loss: 0.45
 Issues with class 1.
 
-6. Neural Network:
+7. Neural Network:
 Accuracy: 77.99%
 Log Loss: 0.85
 Lowest performance.
 
-7. KNN:
+8. KNN:
 Accuracy: 79.57%
 Log Loss: 2.80
 Struggles with class 1.
